@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CRM for Sapphire Diamond**
 
-- 🌱 I’m currently learning **SolidJS, Svelte, Advanced React, VueJS**
+- 🌱 I’m currently learning **SolidJS, Svelte, Advanced React, VueJS, HANADB**
 
 - 👨‍💻 All of my projects are available at [https://zain786.netlify.app](https://zain786.netlify.app)
 
