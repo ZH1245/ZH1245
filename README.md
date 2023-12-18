@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CRM for Sapphire Diamond & Supplier Invoice Portal for SAPPHIRE**
 
-- 🌱 I’m currently learning ** Svelte, VueJS, HANADB**
+- 🌱 I’m currently learning **Svelte, VueJS, HANADB**
 
 - 👨‍💻 All of my projects are available at [https://zain786.netlify.app](https://zain786.netlify.app)
 
