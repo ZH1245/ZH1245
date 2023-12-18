@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zh1245" alt="zh1245" /></a> </p>
 
-- 🔭 I’m currently working on **CRM for Sapphire Diamond**
+- 🔭 I’m currently working on **CRM for Sapphire Diamond & Supplier Invoice Portal for SAPPHIRE**
 
-- 🌱 I’m currently learning **SolidJS, Svelte, Advanced React, VueJS, HANADB**
+- 🌱 I’m currently learning ** Svelte, VueJS, HANADB**
 
 - 👨‍💻 All of my projects are available at [https://zain786.netlify.app](https://zain786.netlify.app)
 
-- 💬 Ask me about **ExpressJS, API's, Frontend,**
+- 💬 Ask me about **ExpressJS, API's, Frontend, React, Next**
 
 - 📫 How to reach me **zainharoon890@gmail.com**
 
