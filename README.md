@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **CRM for Sapphire Diamond & Supplier Invoice Portal for SAPPHIRE**
 
-- 🌱 I’m currently learning **Svelte, VueJS, HANADB**
+- 🌱 I’m currently learning **Svelte, VueJS, GO, Rust**
 
 - 👨‍💻 All of my projects are available at [https://zain786.netlify.app](https://zain786.netlify.app)
 
-- 💬 Ask me about **ExpressJS, API's, Frontend, React, Next**
+- 💬 Ask me about **ExpressJS, API's, Frontend, React, Next, SQL(inc. HANADB)**
 
 - 📫 How to reach me **zainharoon890@gmail.com**
 
