@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zh1245" alt="zh1245" /></a> </p>
 
-- 🔭 I’m currently working on **CRM for Sapphire Diamond & Supplier Invoice Portal for SAPPHIRE**
+- 🔭 I’m currently working on **Chorus Sleep**
 
 - 🌱 I’m currently learning **GO, Rust**
 
