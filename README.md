@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zh1245" alt="zh1245" /></a> </p>
 
-- 🔭 I’m currently working on **Chorus Sleep**
+- 🔭 I’m currently working on **SmashDeck / SalesHoney**
 
-- 🌱 I’m currently learning **GO, Rust**
+- 🌱 I’m currently learning **Angulary, Hono**
 
-- 👨‍💻 All of my projects are available at [https://zain786.netlify.app](https://zain786.netlify.app)
+- 👨‍💻 All of my projects are available at [https://zain786-next.vercel.app/](Portfolio)
 
-- 💬 Ask me about **ExpressJS, API's, Frontend, React, Next, SQL(inc. HANADB)**
+- 💬 Ask me about **ExpressJS, API's, Frontend, React, Next, SQL(inc. HANADB, Postgres)**
 
 - 📫 How to reach me **zainharoon890@gmail.com**
 
