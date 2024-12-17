@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angulary, Hono**
 
-- 👨‍💻 All of my projects are available at [https://zain786-next.vercel.app/](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://zain786-next.vercel.app/)
 
 - 💬 Ask me about **ExpressJS, API's, Frontend, React, Next, SQL(inc. HANADB, Postgres)**
 
