@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SmashDeck / SalesHoney**
 
-- 🌱 I’m currently learning **Angulary, Hono**
+- 🌱 I’m currently learning **Angular, Hono**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://zain786-next.vercel.app/)
 
